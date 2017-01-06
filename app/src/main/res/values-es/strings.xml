@@ -1,0 +1,14 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Solo Java</string>
+    <string name="Chocolate_cream" translatable="true">Chocolate</string>
+    <string name="Order_summary" translatable="true">Orden</string>
+    <string name="Whipped_Cream" translatable="true">Crema batida</string>
+    <string name="no_of_coffees" translatable="true">Cantidad</string>
+    <string name="toppings" translatable="true">Coberturas</string>
+    <string name="order_name" translatable="true">Nombre:<xliff:g id="name" example="Saurav">%s</xliff:g></string>
+    <string name="order_summary_add_chocolate" translatable="true">Añadir chocolate?<xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="order_summary_price" translatable="true">Total:<xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="order_summary_quantity" translatable="true">Cantidad:<xliff:g id="addQuantity" example="2">%d</xliff:g></string>
+    <string name="thank_you" translatable="true">Gracias</string>
+    <string name="order_summary_whipped_cream" translatable="true">Añadir crema batida<xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+</resources>
